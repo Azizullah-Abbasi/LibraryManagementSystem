@@ -4,10 +4,10 @@ A Java-based Library Management System with MySQL database integration for manag
 
 ## 👥 Team Members
 
-- **Azizullah**
-- **Wafa Hussain**
-- **Sadaqat Ali**
-- **Arshad Ali**
+- **Azizullah (023-25-0024)**
+- **Wafa Hussain(023-25-0141)**
+- **Sadaqat Ali (023-25-0135 )**
+- **Arshad Ali (023-25-0022)**
 
 ## 📋 Project Overview
 
@@ -249,3 +249,10 @@ For questions or issues, please contact any team member:
 ---
 
 **Note:** Remember to change the database password in `DBManager` class before running the application!
+
+---
+
+## 🔗 Project Links
+
+- 📁 **Project Files (Google Drive):** [View on Google Drive](https://drive.google.com/file/d/1lDa4R6ZCAMmB2gPPaIEAvOKsc9foBM0a/view?usp=drive_link)
+- 💻 **Source Code (GitHub):** [LibraryManagementSystem](https://github.com/Azizullah-Abbasi/LibraryManagementSystem)
