@@ -7,7 +7,7 @@ A Java-based Library Management System with MySQL database integration for manag
 - **Azizullah (023-25-0024)**
 - **Wafa Hussain(023-25-0141)**
 - **Sadaqat Ali (023-25-0135 )**
-- **Arshad Ali (023-25-0022)**
+- **Arshad Ali (023-25-0021)**
 
 ## 📋 Project Overview
 
